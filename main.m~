@@ -1,0 +1,7 @@
+% gauss seidel method to plot:
+% i eigenvalues of the system
+% ii iterative state vector for rand initial conditions:
+% iii residual error 
+nothing = hw8_gaussSeidel(10)
+nothing = hw8_gaussSeidel(100)
+nothing = hw8_gaussSeidel(1000)
